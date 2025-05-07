@@ -3,7 +3,7 @@
 <h2 align="center">Sobre Mim</h2>
 
 <div align="center">
-  <h3>👨‍💻 Desenvolvedor Frontend</h3>
+  <h3>👨‍💻 Desenvolvedor Fullstack</h3>
   <p align="center">
     Apaixonado por criar interfaces web intuitivas, responsivas e funcionais. Sempre explorando novas tecnologias e tendências para entregar experiências únicas aos usuários.
   </p>
